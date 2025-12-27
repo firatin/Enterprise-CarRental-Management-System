@@ -1,4 +1,4 @@
-#Rent-a-Car Service
+#Enterprise Car Rental Management System
 
 Service is a Windows desktop application designed to manage various aspects of a car rental business, including customer reservations, branch and driver management, and inventory handling.
 
